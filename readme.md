@@ -16,7 +16,7 @@ A fun and interactive memory game built using **HTML**, **CSS**, and **JavaScrip
 ## 🚀 Live Demo
 
 🌐 [Play Simon Says Challenge](https://codebyswatii.github.io/-Simon-Says-Challenge/)  
-*(Replace with your actual GitHub Pages URL)*
+
 
 ## 📸 Screenshots
 
